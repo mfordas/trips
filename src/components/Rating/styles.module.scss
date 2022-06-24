@@ -1,0 +1,17 @@
+.ratingWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: auto;
+
+
+    p {
+        margin: 4px 0;
+        font-weight: bold;
+    }
+
+    .icon {
+        color: #f5e642;
+        padding-right: 5px;
+    }
+}

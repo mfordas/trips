@@ -1,0 +1,7 @@
+{
+    "trips": [
+        {"id": 1, "picture": "glenn-carstens-peters-ZWD3Dx6aUJg-unsplash.jpg", "rating": 4.6, "title": "European Quest", "info": "10 Countries, 25 Days", "regular_price": 3.385, "discount_price": 2.877, "currency": "\u20ac"},
+        {"id": 2, "picture": "dominik-jirovsky-re2LZOB2XvY-unsplash.jpg", "rating": 4.4, "title": "Simply Italy", "info": "2 Countries, 15 Days", "regular_price": 2.155, "discount_price": 1.832, "currency": "\u20ac"},
+        {"id": 3, "picture": "averie-woodard-5d20kdvFCfA-unsplash.jpg", "rating": 4.5, "title": "Italian Espresso", "info": "1 Country, 10 Days", "regular_price": 1.465, "discount_price": 1.245, "currency": "\u20ac"}
+    ] 
+}

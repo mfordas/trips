@@ -1,8 +1,16 @@
-# Getting Started with Create React App
+## Project setup
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project uses yarn and have only yarn.lock so be sure that you have it installed on your machine.
 
-## Available Scripts
+### Steps to run project:
+
+1. In root directory run `yarn install`
+2. To start json-server which allows you to send request to api run `yarn api`. Api server is working on 3001 port and you can access it by: `'http://localhost:3001/'`. Full documentation of json-server you can find here: `https://github.com/typicode/json-server`
+3. To start development run `yarn start`
+
+Tadam you are ready to work!
+
+## Other scripts which you can run in root directory:
 
 In the project directory, you can run:
 

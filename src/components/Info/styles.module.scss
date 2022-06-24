@@ -1,0 +1,36 @@
+.infoWrapper {
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px;
+    flex: 1;
+
+    h3 {
+        font-size: small;
+        padding: 2px;
+        margin: 0px;
+        color: grey;
+    }
+
+    h2 {
+        padding: 2px;
+        margin: 0 0 8px 0;
+    }
+
+    .priceWrapper {
+        display: flex;
+
+        p {
+            font-weight: bold;
+            margin: 4px 0;
+        }
+        
+        p:nth-child(2) {
+            font-weight: normal;
+            color: grey;
+            text-decoration: line-through;
+            padding-left: 10px;
+        }
+    }
+}
